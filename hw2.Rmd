@@ -18,7 +18,7 @@ summary(iris)
 
 # Problem 2:
 
-The sample median of the variable Petail.With is  
+The sample median of the variable Petail.With is 1.300 
 
 # Problem 3: Draw a histograms of the Sepal.Length variable
 
